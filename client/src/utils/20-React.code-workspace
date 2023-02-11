@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "20-React",
+			"path": "../../../../../Practices/Gitlab-Materials/UCLA-VIRT-FSF-PT-08-2022-U-LOLC-main/20-React"
+		},
+		{
+			"name": "21-MERN",
+			"path": "../../../../../Practices/Gitlab-Materials/UCLA-VIRT-FSF-PT-08-2022-U-LOLC-main/21-MERN"
+		},
+		{
+			"name": "22-State",
+			"path": "../../../../../Practices/Gitlab-Materials/UCLA-VIRT-FSF-PT-08-2022-U-LOLC-main/22-State"
+		},
+		{
+			"name": "challenge 21",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
